@@ -64,7 +64,7 @@ public abstract class Item {
 		System.out.println("Name::" + this.getName() +
 				"  Price::" + this.getPrice() +
 				"  Sales_Tax_Liability::" + this.getSalesTaxLiability() +
-				" Final Price::" + this.getFinalPrice());
+				"  Final_Price::" + this.getFinalPrice());
 	}
 	
 	
